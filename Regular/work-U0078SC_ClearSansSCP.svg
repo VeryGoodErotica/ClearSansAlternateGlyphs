@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="614" height="1024" viewBox="-10 0 1218 2048">
+  <defs>
+    <g id="fii">
+    <circle r="15" cx="53"   cy="0"    fill="black"/>
+  <circle r="15" cx="408"  cy="534"  fill="blue"/><!-- minus 13 -->
+   
+  <circle r="15" cx="66"   cy="1065" fill="blue"/>
+  <circle r="15" cx="258"  cy="1065" fill="blue"/>
+   
+  <circle r="15" cx="506"  cy="681"  fill="blue"/><!-- 505 -->
+   
+  <circle r="15" cx="761"  cy="1065" fill="green"/><!-- 787 -->
+  <circle r="15" cx="944"  cy="1065" fill="green"/><!-- 970 -->
+   
+  <circle r="15" cx="594"  cy="539"  fill="blue"/><!-- 607 -->
+   
+  <circle r="15" cx="944"  cy="0"    fill="green"/><!-- 970 -->
+  <circle r="15" cx="752"  cy="0"    fill="green"/><!-- 778 -->
+   
+  <circle r="15" cx="498"  cy="394"  fill="purple"/><!-- 511 -->
+   
+  <circle r="15" cx="236"  cy="0"    fill="blue"/>
+    </g>
+  </defs>
+  <rect x="-10" y="0" width="1228" height="2048" fill="#f0f8ff"/>
+  <g transform="matrix(0.7695 0 0 -0.7695 0 1489)">
+   <path fill="#cd22cd" d="
+   M   53    0
+   l  449  694
+   l -436  690
+   l  217    0
+   l  327 -546
+   l  338  546   
+   l  207    0
+   l -442 -684
+   l  442 -700
+   l -217    0
+   l -336  557
+   l -342 -557
+   
+   l -207    0z
+   " />
+   
+   
+  </g>
+  <g transform="matrix(1 0 0 -1 0 1489)">
+  
+   
+   <path stroke="black" stroke-width="5" fill="yellow" fill-opacity="0.5" d="
+    M   53     0
+    L  408   534
+    L   66  1065
+    L  258  1065
+    L  506   681
+    L  761  1065
+    L  944  1065
+    L  594   539
+    L  944     0
+    L  752     0
+    L  498   394
+    L  236     0
+    L   53     0z
+  "/>
+  
+  </g>
+  <text x="5" y="1750" font-size="50" >Clear Sans SCP Regular Lower Case X</text>
+  <text x="5" y="1810" font-size="50" >Font Upper X height 1384 SVG units</text>
+  <text x="5" y="1870" font-size="50" >Font lower x height 1049 SVG units</text>
+  <text x="5" y="1930" font-size="50" >My SC height: 1065 SVG units</text>
+  <text x="5" y="1990" font-size="50" >My HORIZ stem width factor: 15%</text>
+  
+  
+</svg>
