@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-90 0 1235 2048">
+  <!-- 1135 is widest point - add 100 for viewbox -->
+  <rect x="-90" y="0" width="1325" height="2048" fill="#f0f8ff"/>
+  <g transform="matrix(0.7695 0 0 -0.7695 0 1489)">
+   <path fill="#cd22cd" d="
+   M  -80    0
+   l  604  721
+   l -291  663
+   l  297    0
+   l  189 -458
+   l  375  458
+   l  321    0
+   l -590 -688
+   l  295 -696
+   l -295    0
+   l -196  492
+   l -389 -492
+   
+   l -320    0z
+   " />
+  </g>
+  <g transform="matrix(1 0 0 -1 0 1489)">
+    <circle r="15" cx="-80"  cy="0"    fill="red"/>
+    <circle r="15" cx="405"  cy="555"  fill="blue"/>
+    
+    <circle r="15" cx="165"  cy="1065" fill="blue"/> <!-- 233 - 165 = 68 -->
+    <circle r="15" cx="428"  cy="1065" fill="blue"/>
+    
+    <circle r="15" cx="576"  cy="751"  fill="blue"/>
+    
+    <circle r="15" cx="851"  cy="1065" fill="blue"/> <!-- 1094 - 851 = 243 -->
+    <circle r="15" cx="1135" cy="1065" fill="blue"/>
+    
+    <circle r="15" cx="676"  cy="536"  fill="blue"/>
+    
+    <circle r="15" cx="929"  cy="0"    fill="blue"/> <!-- 1086 - 929 = 157 -->
+    <circle r="15" cx="668"  cy="0"    fill="blue"/>
+    
+    <circle r="15" cx="505"  cy="346"  fill="purple"/>
+    <circle r="15" cx="203"  cy="0"    fill="blue"/>
+    
+    <path stroke="black" stroke-width="5" fill="yellow" fill-opacity="0.5" d="
+    M  -80    0
+    L  405  555
+    L  165 1065
+    L  428 1065
+    L  576  751
+    L  851 1065
+    L 1135 1065
+    L  676  536
+    L  929    0
+    L  668    0
+    L  505  346
+    L  203    0
+    L  -80    0
+    "/>
+  </g>
+  <text x="5" y="1750" font-size="50" >Clear Sans BoldItalic Small Caps x</text>
+</svg>
