@@ -20,3 +20,28 @@ Only the SVG files will be here, ready for import into FontForge. I will not
 be hosting font files.
 
 This will take a while to complete.
+
+Remember to auto-hint and kern if importing these into a font.
+
+
+U+002A Alternate
+----------------
+
+This glyph is actually borrowed from Fira Sans but lowered so that it is
+vertically centered in small-cap height.
+
+May need some adjustment.
+
+
+U+0061-007A Alternate
+---------------------
+
+Small-Caps created from the Clear Sans upper case. Each glyph was redrawn,
+it is not just a scale/resize.
+
+
+U+25CF Alternate
+----------------
+
+This is the Clear Sans glyph but centered to the Caps Height (actual caps, not
+small caps). Italic variants may need horizontal adjustment.
