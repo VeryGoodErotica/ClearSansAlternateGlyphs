@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1247 2048">
+  <rect x="-10" y="0" width="1257" height="2048" fill="#f0f8ff"/>
+  <g transform="matrix(1 0 0 -1 0 1489)">
+   <path fill="currentColor" d="
+   M618 1115
+   q120 0 218.5 -58
+   t160.5 -158.5
+   
+   t62 -206.5
+   
+   q0 -139 -58.5 -238.5
+   t-157.5 -159.5
+   t-225 -60
+   q-124 0 -223 59.5
+   t-158 159
+   t-59 239.5
+   q0 105 62 205.5
+   t159.5 159
+   t218.5 58.5z
+   " />
+   <circle r="15" cx="618"   cy="1018"  fill="red"/>
+   <circle r="15" cx="836.5" cy="960"   fill="blue"/>
+   <circle r="15" cx="997"   cy="801.5" fill="blue"/>
+   <circle r="15" cx="1059"  cy="595"   fill="blue"/>
+   <line x1="0" y1="0" x2="1237" y2="1384" stroke="yellow" stroke-width="15"/>
+  </g>
+  <text x="5" y="1750" font-size="50" >Clear Sans Book and Bold Black Circle</text>
+  <text x="5" y="1810" font-size="50" >Original path, just centered to cap height</text>
+</svg>
