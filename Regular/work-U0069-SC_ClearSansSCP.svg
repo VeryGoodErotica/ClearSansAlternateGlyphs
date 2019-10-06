@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 680 2048">
+  <!-- left viewBox is +112 -->
+  <rect x="-10" y="0" width="690" height="2048" fill="#f0f8ff"/>
+  <defs>
+    <g id="foo">
+      <circle r="15" cx="568"  cy="0"    fill="red"/>
+    <circle r="15" cx="102"  cy="0"    fill="blue"/>
+    <circle r="15" cx="102"  cy="140"  fill="blue"/>
+    <circle r="15" cx="243"  cy="140"  fill="black"/>
+    
+    <circle r="15" cx="243"  cy="927" fill="black"/>
+    <circle r="15" cx="102"  cy="927" fill="blue"/>
+    <circle r="15" cx="102"  cy="1065" fill="blue"/>
+    <circle r="15" cx="568"  cy="1065" fill="blue"/>
+    <circle r="15" cx="568"  cy="927" fill="blue"/>
+    <circle r="15" cx="405"  cy="927" fill="green"/>
+    
+    <circle r="15" cx="405"  cy="140"  fill="green"/>
+    <circle r="15" cx="568"  cy="140"  fill="blue"/>
+    </g>
+  </defs>
+  <g transform="matrix(0.7695 0 0 -0.7695 0 1489)">
+   <path fill="#cd22cd" d="
+   M  668     0
+   l -566     0
+   l    0   160
+   l  191     0
+   l    0  1067   
+   l -191     0
+   l    0   157
+   l  566     0
+   l    0  -157
+   l -191     0
+   l    0 -1067
+   l  191     0
+    
+   l    0  -160z
+   " />
+  </g>
+  <g transform="matrix(1 0 0 -1 0 1489)">
+    <path stroke="black" stroke-width="10" fill="yellow" fill-opacity="0.5" d="
+      M   568    0
+      L   102    0
+      L   102  140
+      L   243  140
+      L   243  927
+      L   102  927
+      L   102 1065
+      L   568 1065
+      L   568  927
+      L   405  927
+      L   405  140
+      L   568  140
+      L   568    0z
+    "/>
+  </g>
+  <text x="5" y="1750" font-size="50" >Clear Sans Regular Small Caps i</text>
+  <text x="5" y="1810" font-size="50" >Vertical stem scale facter 13.5%</text>
+  <text x="5" y="1870" font-size="50" >Horizontal stem scale facter 15%</text>
+</svg>
