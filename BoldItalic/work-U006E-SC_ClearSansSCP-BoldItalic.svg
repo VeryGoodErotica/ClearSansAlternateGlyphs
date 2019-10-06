@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1177 2048">
+  <!-- viewBox is +20 -->
+  <defs>
+  <g id="foo">
+    <circle r="15" cx="37"   cy="0"    fill="red"/>
+    <circle r="15" cx="262"  cy="1065" fill="blue"/>
+    
+    <circle r="15" cx="565"  cy="1065" fill="blue"/>
+    <circle r="15" cx="775"  cy="400"  fill="blue"/>
+    
+    <circle r="15" cx="916"  cy="1065" fill="blue"/>
+    <circle r="15" cx="1157" cy="1065" fill="blue"/>
+    <circle r="15" cx="932"  cy="0"    fill="blue"/>
+    <circle r="15" cx="651"  cy="0"    fill="blue"/>
+    <circle r="15" cx="427"  cy="713"  fill="purple"/>
+    <circle r="15" cx="276"  cy="0"    fill="blue"/>
+  </g>
+  </defs>
+  <rect x="-10" y="0" width="1187" height="2048" fill="#f0f8ff"/>
+  <g transform="matrix(0.7695 0 0 -0.7695 0 1489)">
+   <path fill="gray" d="
+   M   809     0
+   l  -293   989   
+   l  -209  -989
+   l  -270     0
+   l   293  1384
+   l   342     0
+   l   276  -933
+   l   199   933
+   l   272     0
+   l  -293 -1384
+   l  -317     0z
+   " />
+  </g>
+  
+  <g transform="matrix(1 0 0 -1 0 1489)">
+    <path stroke="black" stroke-width="10" fill="yellow" fill-opacity="0.5" d="
+      M   37    0
+      L  262 1065
+      L  565 1065
+      L  775  400
+      L  916 1065
+      L 1157 1065
+      L  932    0
+      L  651    0
+      L  427  713
+      L  276    0
+      L   37    0z
+    "/>
+  </g>
+  <text x="5" y="1750" font-size="50" >Clear Sans BoldItalic Small Caps n</text>
+</svg>
