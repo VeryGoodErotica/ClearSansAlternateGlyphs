@@ -3,7 +3,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1349 2048">
   <g transform="matrix(1 0 0 -1 0 1489)">
     <path fill="currentColor"
-    d="M112 0 v1065 l493 -525 v525 l 500 -532.5 l-500 -532.5 v525 l-493 -525z M1150 0 v1065 h87 v-1065 h-87z"/>
+d="M112 0 v1065 l455 -485 v485 l500 -532.5 l-500 -532.5 v485 l-455 -485z M1112 0 v1065 h125 v-1065 h-125z"/>
   </g>
 
 </svg>
